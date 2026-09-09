@@ -1,4 +1,6 @@
 Task 1 — Basic Network Scanning with Nmap
+
+
 Objective
 Perform a basic network scan against a local machine/VM using Nmap, identify open ports and running services, perform service-version and OS-detection scans, and document the security relevance of the findings.
 > **Ethical scope:** Scan only a machine/VM that you own or have explicit permission to scan. For this task, use a local lab VM such as Kali Linux, Ubuntu, or another intentionally created test machine.
